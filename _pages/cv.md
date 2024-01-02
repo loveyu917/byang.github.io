@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Security, University of Electronic Science and Technology of China, 2012-2016
+* M.S. in Computer Science, Southern Methodist University, 2018-2020
+* Ph.D in Computer Science and Information Systems, University of Massachusetts Dartmouth, 2023- present
+  * Advised by Prof. Jiawei Yuan
 
 Work experience
 ======
@@ -36,11 +37,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
