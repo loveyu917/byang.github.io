@@ -18,15 +18,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2018: Software Development Engineer
+  * Idealens Technology Co., Ltd, China 
+  * Duties included: graphics and images processing, interaction algorithm, tracking related computer vision algorithms development
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2023: Research Assistant
+  * Key Lab of Internet and Natural Language Processing of Sichuan Provincial Education Department
+  * Duties included: QA robot architecture,visual interaction and language model system development
+  * Supervisor: Prof. Jin Peng
 <!---
 your comment goes here
 and here
@@ -62,4 +62,4 @@ Teaching
 -->
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of IEEE International Conference on Communications
