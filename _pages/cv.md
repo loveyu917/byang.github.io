@@ -25,7 +25,7 @@ Work experience
 
 * 2021 - 2023: Research Assistant
   * Key Lab of Internet and Natural Language Processing of Sichuan Provincial Education Department
-  * Duties included: Develop the blind gesture recognition system by CV and NLP approaches. Design and train a local dialect language model and complete a QA robot platform based on it. 
+  * Duties included: Develop the blind gesture recognition system by CV and NLP approaches. Design and train a local dialect language Q&A model and deploy on a robot platform. 
   * Supervisor: Prof. Jin Peng
 <!---
 your comment goes here
