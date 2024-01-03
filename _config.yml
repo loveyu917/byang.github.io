@@ -83,10 +83,10 @@ author:
   name             : "Boyin Yang "
   avatar           : "mstile-310x150.png.png"
   bio              : "PhD Student at University of Massachusetts Dartmouth"
-  location         : "North Dartmouth- MA, US"
+  location         : "North Dartmouth MA, US"
   employer         :
   # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : ""
   email            : "byang@umassd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "github.com/loveyu917"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :""
   # orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
